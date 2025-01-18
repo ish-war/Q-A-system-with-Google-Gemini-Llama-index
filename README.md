@@ -2,7 +2,7 @@
 
 This project is a Generative AI-powered Question and Answer System that retrieves and processes information from uploaded documents to answer user queries. It leverages advanced AI technologies and tools for efficient information retrieval and presents results in a user-friendly Streamlit application.
 
-### Features ###
+## Features ##
 1. Document-Based Q&A:
 * Allows users to upload files (up to 200 MB) for processing.
 * Dynamically generates answers to user queries based on the uploaded document's content.
@@ -15,8 +15,9 @@ This project is a Generative AI-powered Question and Answer System that retrieve
 4. Interactive Streamlit Interface:
 * Clean and responsive UI for document upload, question submission, and answer visualization.
 
-### Installation and Setup ###
+## Installation and Setup ##
 
 1. Clone the repository :
+
 git clone https://github.com/ish-war/qa-with-documents.git
 cd qa-with-documents

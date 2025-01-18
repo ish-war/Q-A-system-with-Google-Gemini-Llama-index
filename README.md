@@ -21,3 +21,11 @@ This project is a Generative AI-powered Question and Answer System that retrieve
 
 git clone https://github.com/ish-war/qa-with-documents.git
 cd qa-with-documents
+
+
+## Installation and Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/qa-with-documents.git
+   cd qa-with-documents

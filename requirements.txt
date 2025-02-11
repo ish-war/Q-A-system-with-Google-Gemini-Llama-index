@@ -7,4 +7,4 @@ IPython
 llama-index-embeddings-gemini
 streamlit 
 
-#-e .   # it will download local packages i.e. setup.py file
+#-e .   # it will download local packages i.e. setup.py file  
